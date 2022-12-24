@@ -1,0 +1,7 @@
+# Boilerplate Node
+
+### Start
+* git clone https://github.com/Sigurd06/boilerplate
+* Remove .git folder -> rm -fr .git
+* Initialize new repository with git init
+* Install depencendies -> yarn/npm i
